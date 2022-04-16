@@ -4,10 +4,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <h1>
-        Thank you for visiting this website. It is under construction please try
-        again.
-      </h1>
+      <h1>I love my wife so much. Atin Malik</h1>
     </>
   );
 }
