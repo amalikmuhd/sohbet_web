@@ -1,10 +1,11 @@
 import { GlobalStyle } from "./components/styles/Global";
+import Hero from "./components/styles/hero";
 
 function App() {
   return (
     <>
       <GlobalStyle />
-      <h1>I love my wife so much. Atin Malik</h1>
+      <Hero />
     </>
   );
 }
