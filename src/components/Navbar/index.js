@@ -9,11 +9,11 @@ import {
 function NavBar() {
   return (
     <Container>
-      <h1> 😊 Sohbet</h1>
+      <h1> 😊 Atilus</h1>
       <main>
         <NavMenu>
           <NavItem>
-            <NavItemLink>Get Sohbet</NavItemLink>
+            <NavItemLink>Get Atilus</NavItemLink>
           </NavItem>
           <NavItem>
             <NavItemLink>Support</NavItemLink>

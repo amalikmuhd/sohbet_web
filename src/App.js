@@ -1,6 +1,7 @@
 import { GlobalStyle } from "./components/styles/Global";
-import Hero from "./components/styles/hero";
-import NavBar from "./components/styles/Navbar";
+import NavBar from "./components/Navbar";
+import Hero from "./components/hero";
+import WhySohbet from "./components/WhySohbet";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <GlobalStyle />
       <NavBar />
       <Hero />
+      <WhySohbet />
     </>
   );
 }
