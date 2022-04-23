@@ -11,6 +11,9 @@ export const Title = styled.h1`
   @media (max-width: 900px) {
     font-size: 3.5rem;
   }
+  @media (max-width: 500px) {
+    font-size: 2.8rem;
+  }
 `;
 
 export const Subtitle = styled.p`
@@ -26,7 +29,12 @@ export const Subtitle = styled.p`
     margin: 2rem 0;
   }
   @media (max-width: 900px) {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin: 2rem 0;
+  }
+
+  @media (max-width: 500px) {
+    font-size: 1.6rem;
+    text-align: center;
   }
 `;
